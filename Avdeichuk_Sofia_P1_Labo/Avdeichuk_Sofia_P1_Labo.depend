@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1652281027 source:c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\destino.c
+	"destino.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652279771 c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\destino.h
+
+1652281027 source:c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	"empresa.h"
+	<string.h>
+
+1652277333 c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\empresa.h
+
+1652272017 source:c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1652272446 c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\fecha.h
+
+1652281739 source:c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\micro.c
+	"micro.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"tipo.h"
+	"validaciones.h"
+
+1652281381 c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\micro.h
+	"tipo.h"
+	"empresa.h"
+
+1652281027 source:c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652277333 c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\tipo.h
+
+1652281106 source:c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\viaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"viaje.h"
+	"destino.h"
+
+1652280150 c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\viaje.h
+	"fecha.h"
+	"destino.h"
+	"micro.h"
+
+1652281027 source:c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"viaje.h"
+	"fecha.h"
+	"empresa.h"
+	"tipo.h"
+	"micro.h"
+	"destino.h"
+
+1652281045 source:c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"empresa.h"
+	"tipo.h"
+	"destino.h"
+
+1652281045 c:\users\avdei\onedrive\desktop\sof\proyectos c\avdeichuk_sofia_p1_labo\validaciones.h
+	"empresa.h"
+	"tipo.h"
+	"destino.h"
+	"micro.h"
+
